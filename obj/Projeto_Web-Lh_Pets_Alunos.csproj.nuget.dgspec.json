@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucil\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucil\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucil\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+        "projectName": "Projeto_Web-Lh_Pets_Alunos",
+        "projectPath": "C:\\Users\\lucil\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\Projeto_Web-Lh_Pets_Alunos.csproj",
+        "packagesPath": "C:\\Users\\lucil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucil\\Downloads\\Projeto_Web-Lh_Pets_Alunos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
